@@ -1,0 +1,12 @@
+
+The paper referenced below examines whether more R rated films are made than would be optimal strictly for profits.  It was published in 2002, based on 2,015 movies that were released to theaters in North America from 1985 to 1996, inclusive. 
+
+I intend to follow their analysis as closely as possible by using updated data from the years 1997 to the present, using data scraped from 'the-numbers.com' for revenues and production costs and 'imdb.com' for ratings and other descriptive data. I also intend to supplement their analyses with our regression and decision tree models as appropriate.  
+
+
+	De Vany, A., & Walls, W. (2002). Does Hollywood Make Too Many R‐Rated Movies? Risk, Stochastic Dominance, and the Illusion of Expectation. The Journal of Business, 75(3), 425-451. doi:1. Retrieved from http://www.jstor.org/stable/10.1086/339890 doi:1
+
+
+
+
+
